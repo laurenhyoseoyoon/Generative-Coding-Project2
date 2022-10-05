@@ -3,8 +3,9 @@
 ## ✔️ Name: 
 Lauren Hyoseo Yoon
 
-## ✔️ Personal Glitch link: 
-
+## ✔️ Personal link: 
+- Link of the published github page: https://laurenhyoseoyoon.github.io/Generative-Coding-Project2/
+- Assignment 2 Repository: https://github.com/laurenhyoseoyoon/Generative-Coding-Project2
 
 ## ✔️ Describe each of the four GIFs 
 1. BOUNCES
