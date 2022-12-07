@@ -24,6 +24,13 @@ Lauren Hyoseo Yoon
 - This is the project inspired by the artist Damien Hirst's Pill series, this project illustrates pills that are dynamically moving based on viewers' mouse movement. 
 
 (+) 6. ACTUALLY TURNING...
+- Word/Letter based project that the word "Turning" is actually turning! 
+
+(+) 7. RECURSIVE SIMULATION
+- Simulation of recursion using geometry. 
+
+(+) 8. RUN BETTER RUN
+- Character that shows a levitating run! 
 
 ## ✔️ What P5 method or technique did you enjoy using the most? What was interesting to you about it?
 - Methods: (1) Mathematics Functions (e.g. Fouriers Series); (2) beginShape() and endShape(); (3) Push() and Pop() method
